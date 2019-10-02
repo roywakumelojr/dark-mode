@@ -37,7 +37,7 @@ Follow these steps for completing your project.
 
 - [X] Build a custom hook that let's you save data to localStorage
 - [X] Build a second custom hook that sets the `dark-mode` class on the body element
-- [ ] Compose your two new hooks together to be able to set and persist your user's dark mode preference in your app
+- [X] Compose your two new hooks together to be able to set and persist your user's dark mode preference in your app
 <!--
 - [ ] Write tests that use mocks and spies to handle dependencies in your components
 -->
